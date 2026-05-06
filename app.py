@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 # 1. Configure the Web Page
 st.set_page_config(page_title="Phishing Detection Framework", layout="wide")
 st.title("🛡️ Explainable Ensemble Phishing Detection")
-st.markdown("### Proactive Zero-Day Threat Analysis | M.Tech Research Demo")
+st.markdown("### Proactive Zero-Day Threat Analysis | M.Tech Project Demo")
 st.divider()
 
 # 2. Background Processing (Cached so it runs instantly)
